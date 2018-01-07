@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/example/form/validate/validate",
+    "pages/example/form/validate/coupon",
+    "pages/example/form/submit/submit",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}

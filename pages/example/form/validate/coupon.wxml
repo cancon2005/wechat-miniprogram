@@ -1,0 +1,14 @@
+<import src="../../../common/head.wxml" />
+<import src="../../../common/foot.wxml" />
+
+<view id="getCoupon" class="container">
+  <template is="head" data="{{title: 'Generate Coupon'}}"/>
+  <view class="page-body">
+    <view class="page-section">
+      <view class="weui-cells__title">Coupon:</view>
+         <view class="weui-input">{{coupon}}</view>
+    </view>
+  </view>
+
+  <template is="foot" />
+</view>  
